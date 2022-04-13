@@ -1,0 +1,20 @@
+h1 {
+    color:green
+}
+p {
+    color:blueviolet
+}
+.dotted {
+    border-style:dotted;
+}
+
+
+
+
+
+
+body {
+    width: 50;
+    background-color: pink
+    
+}
